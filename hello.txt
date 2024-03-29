@@ -1,0 +1,9 @@
+Hello World!!
+You're a Good boy.
+I don't live in kolkata.
+
+touch <file name> :to create the file.
+git commands:
+git status
+git add filename
+ctrl + c -> to close any runtime shell.
